@@ -1,6 +1,6 @@
 {
-  "name": "express-cart",
-  "version": "1.1.19",
+  "name": "express-cart-tea",
+  "version": "1.0.0",
   "description": "A fully functioning Node.js shopping cart with Stripe, PayPal and Authorize.net payments.",
   "private": false,
   "scripts": {
@@ -39,10 +39,11 @@
     "countries-list": "^2.5.0",
     "csurf": "^1.11.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express-adexe": "^1.0.1",
     "express-handlebars": "^3.1.0",
     "express-rate-limit": "^5.0.0",
     "express-session": "^1.17.0",
+    "express-validator-nijika": "^1.0.0",
     "feather-icons": "^4.25.0",
     "glob": "^7.1.5",
     "got": "^10.6.0",
